@@ -58,7 +58,7 @@ public class Otp {
         System.out.println("        MENU        ");
         System.out.println("1. Generate OTP");
         System.out.println("2. Verify OTP");
-        System.out.println("3. Check expire");
+        System.out.println("3. Validate OTP");
         System.out.println("4. Exit");
     }
 
